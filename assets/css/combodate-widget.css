@@ -1,0 +1,7 @@
+span.combodate select{
+    display: inline-block;
+}
+
+span.combodate{
+    display: block;
+}

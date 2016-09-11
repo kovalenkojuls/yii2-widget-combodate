@@ -1,0 +1,19 @@
+{
+    "name": "kovalenkojuls/yii2-widget-combodate",
+    "description": "Wrapper of jQuery plugin Combodate (https://github.com/vitalets/combodate)",
+    "keywords": ["yii2", "extension", "widget", "select2", "form", "date", "picker", "jquery", "plugin"],
+    "type": "yii2-extension",
+    "license": "https://github.com/kovalenkojuls/yii2-widget-combodate/blob/master/LICENSE.md",
+    "authors": [
+        {
+            "name": "Julia Kovalenko",
+            "email": "kovalenko_jul_s@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kovalenkojuls\\date\\": ""
+        }
+    }
+}
