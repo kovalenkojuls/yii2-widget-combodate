@@ -69,7 +69,7 @@ echo $form->field($model, 'birthday')->widget(CombodateWidget::className(),
 | data-format | string | 'DD-MM-YYYY', 'DD-MM-YYYY HH:mm', 'DD-MM-YYYY h:mm a' | In this format date is stored in original input.| 
 | data-template | string | 'D MMM YYYY', 'DD / MM / YYYY     HH : mm' | In this format dropdowns are displayed.  |
 | name (without model) | string | 'data-input'    | Name of input.  |
-| value (with model)   | strind| If data-format='DD-MM-YYYY', value='21-05-2016' (for example) | Initial value.|
+| value (with model)   | string| If data-format='DD-MM-YYYY', value='21-05-2016' (for example) | Initial value.|
 
 ## Optional parameters
 
